@@ -1,8 +1,8 @@
-# :page_with_curl: Lifelong SG2I: Continual Visual Concept Learning with Scene Graph Growing
+# :page_with_curl: R$^2$MoE: Redundancy-Removal Mixture of Experts for Lifelong Concept Learning
 
 This is the *Pytorch Implementation* for the paper:
 
-> **R$^2$MoE: Redundancy-Removal Mixture of Experts for Lifelong Concept Learning** <br><br>
+> **R<sup>2</sup>MoE: Redundancy-Removal Mixture of Experts for Lifelong Concept Learning** <br><br>
 >
 
 > **Abstract**:  
