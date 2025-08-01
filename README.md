@@ -8,7 +8,7 @@ This is the *Pytorch Implementation* for the paper:
 > **Abstract**:  
 
 <div align=center>
-<img align="middle" width="800" src="figures/framework.png">
+<img align="middle" width="800" src="figures/figure1.pdf">
 </div>
 
 ## 🔧 Dependencies and Installation
