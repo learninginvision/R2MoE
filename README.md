@@ -1,4 +1,4 @@
-# :page_with_curl: R$^2$MoE: Redundancy-Removal Mixture of Experts for Lifelong Concept Learning
+# :page_with_curl: R<sup>2</sup>MoE: Redundancy-Removal Mixture of Experts for Lifelong Concept Learning
 
 This is the *Pytorch Implementation* for the paper:
 
