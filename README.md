@@ -1,14 +1,34 @@
-# :page_with_curl: R<sup>2</sup>MoE: Redundancy-Removal Mixture of Experts for Lifelong Concept Learning
-
+# :page_with_curl: R<sup>2</sup>MoE: Redundancy-Removal Mixture of Experts for Lifelong Concept Learning 
+### 
 This is the *Pytorch Implementation* for the paper:
-
-> **R<sup>2</sup>MoE: Redundancy-Removal Mixture of Experts for Lifelong Concept Learning** <br><br>
+> [**R<sup>2</sup>MoE: Redundancy-Removal Mixture of Experts for Lifelong Concept Learning** <br><br>](https://arxiv.org/html/2507.13107v1)
 >
-
-> **Abstract**:  
-
+ ## Overview
+### Train Paradigm 
 <div align=center>
 <img align="middle" width="800" src="figures/overview.png">
+</div>
+
+### Inference Paradigm 
+<div align=center>
+<img align="middle" width="800" src="figures/Inference.png">
+</div>
+[R<sup>2</sup>MoE](https://arxiv.org/html/2507.13107v1) enables continuous learning of new concepts (up to hundreds) on a pre-trained diffusion model without significant catastrophic forgetting. This approach also reduces the additional storage required for each new concept to 0.6MB.
+Our method also supports the compositional application of multiple concepts.
+
+## 📈 Results
+
+### Single-Concept Results
+<div align="center">
+<img align="middle" width="700" src="figures/Qualitative results.png">
+</div>
+
+### Multi-Concept Results
+
+</div>
+<div align="center">
+<img align="middle" width="700" src="figures/Qualitative results2.png">
+
 </div>
 
 ## 🔧 Dependencies and Installation
@@ -35,7 +55,7 @@ conda activate R2MoE
 ## :floppy_disk: Data preparation
 Get regularization data:
 ```shell
-bash sample-continual-10task_reg.sh
+bash sample_reg_dataset.sh
 ```
 you can get regularization image in the folder ./gen_reg
 ##  💻 Training
@@ -43,7 +63,7 @@ Run the following command to train the model sequentially:
 
 
 ```shell
-bash scripts/finetune_gen_loramoe_continual.sh
+bash scripts/finetune_gen_r2moe_continual.sh
 ```
 
 After training, you can get model checkpoints in the folder `./logs/<your_model>/checkpoints`.
@@ -53,40 +73,30 @@ After completing training, you can generate image by using the following command
 
 Inference
 ```shell
-bash sample-continual_bbox-10task.sh
+bash sample_single_concept.sh
 ```
 The result will be saved in the folder `./logs/<your_model>/reg`.
 
+If you want to generate image with multiple concepts, you can use the following command:
+```shell
+bash sample_single_concept.sh
+```
+
 CLIP Metric calculation
 ```shell
-bash scripts/evaluate_IA.sh
-bash scripts/evaluate_TA.sh
+bash scripts/evaluate.sh
 ```
-Diversity calculation
-```shell
-python diversity.py --path ./logs/<your_model>/reg
+## References
+
+```
+@article{guo2025r,
+  title={R\^{} 2MoE: Redundancy-Removal Mixture of Experts for Lifelong Concept Learning},
+  author={Guo, Xiaohan and Cai, Yusong and Liu, Zejia and Wang, Zhengning and Pan, Lili and Li, Hongliang},
+  journal={arXiv preprint arXiv:2507.13107},
+  year={2025}
+}
 ```
 
-## 📈 Results
-
-<div align="center">
-<img align="middle" width="700" src="figures/Qualitative results.png">
-
-*Results of divesity.*
-</div>
-
-<div align="center">
-<img align="middle" width="700" src="figures/Qualitative results2.png">
-
-*Results of CLIP TA, CLIP IA and forgetting.*
-</div>
-</div>
-
-<div align="center">
-<img align="middle" width="700" src="figures/forgetting_and_parameters.png">
-
-*Diversity of image generation.*
-</div>
 
 ## 📜 Acknowledgments
 
@@ -94,8 +104,6 @@ This code is built upon
 
 [1] [ldm](https://github.com/CompVis/latent-diffusion)
 
-[1] [Attention Refocusing](https://github.com/Attention-Refocusing/attention-refocusing)
-
-
+[2] [Custom Diffusion](https://github.com/adobe-research/custom-diffusion)
 
 We thank the authors for releasing their code.
