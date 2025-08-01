@@ -1,0 +1,25 @@
+a <new1> sneaker in the jungle
+a <new1> sneaker in the snow
+a <new1> sneaker on the beach
+a <new1> sneaker on a cobblestone street
+a <new1> sneaker on top of pink fabric
+a <new1> sneaker on top of a wooden floor
+a <new1> sneaker with a city in the background
+a <new1> sneaker with a mountain in the background
+a <new1> sneaker with a blue house in the background
+a <new1> sneaker on top of a purple rug in a forest
+a <new1> sneaker with a wheat field in the background
+a <new1> sneaker with a tree and autumn leaves in the background
+a <new1> sneaker with the Eiffel Tower in the background
+a <new1> sneaker floating on top of water
+a <new1> sneaker floating in an ocean of milk
+a <new1> sneaker on top of green grass with sunflowers around it
+a <new1> sneaker on top of a mirror
+a <new1> sneaker on top of the sidewalk in a crowded street
+a <new1> sneaker on top of a dirt road
+a <new1> sneaker on top of a white rug
+a red <new1> sneaker
+a purple <new1> sneaker
+a shiny <new1> sneaker
+a wet <new1> sneaker
+a cube shaped <new1> sneaker

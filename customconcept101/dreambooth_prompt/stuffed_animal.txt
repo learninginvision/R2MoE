@@ -1,0 +1,25 @@
+a <new4> stuffed_animal in the jungle
+a <new4> stuffed_animal in the snow
+a <new4> stuffed_animal on the beach
+a <new4> stuffed_animal on a cobblestone street
+a <new4> stuffed_animal on top of pink fabric
+a <new4> stuffed_animal on top of a wooden floor
+a <new4> stuffed_animal with a city in the background
+a <new4> stuffed_animal with a mountain in the background
+a <new4> stuffed_animal with a blue house in the background
+a <new4> stuffed_animal on top of a purple rug in a forest
+a <new4> stuffed_animal with a wheat field in the background
+a <new4> stuffed_animal with a tree and autumn leaves in the background
+a <new4> stuffed_animal with the Eiffel Tower in the background
+a <new4> stuffed_animal floating on top of water
+a <new4> stuffed_animal floating in an ocean of milk
+a <new4> stuffed_animal on top of green grass with sunflowers around it
+a <new4> stuffed_animal on top of a mirror
+a <new4> stuffed_animal on top of the sidewalk in a crowded street
+a <new4> stuffed_animal on top of a dirt road
+a <new4> stuffed_animal on top of a white rug
+a red <new4> stuffed_animal
+a purple <new4> stuffed_animal
+a shiny <new4> stuffed_animal
+a wet <new4> stuffed_animal
+a cube shaped <new4> stuffed_animal

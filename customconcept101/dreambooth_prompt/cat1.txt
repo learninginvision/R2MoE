@@ -1,0 +1,25 @@
+a <new30> cat in the jungle
+a <new30> cat in the snow
+a <new30> cat on the beach
+a <new30> cat on a cobblestone street
+a <new30> cat on top of pink fabric
+a <new30> cat on top of a wooden floor
+a <new30> cat with a city in the background
+a <new30> cat with a mountain in the background
+a <new30> cat with a blue house in the background
+a <new30> cat on top of a purple rug in a forest
+a <new30> cat wearing a red hat
+a <new30> cat wearing a santa hat
+a <new30> cat wearing a rainbow scarf
+a <new30> cat wearing a black top hat and a monocle
+a <new30> cat in a chef outfit
+a <new30> cat in a firefighter outfit
+a <new30> cat in a police outfit
+a <new30> cat wearing pink glasses
+a <new30> cat wearing a yellow shirt
+a <new30> cat in a purple wizard outfit
+a red <new30> cat
+a purple <new30> cat
+a shiny <new30> cat
+a wet <new30> cat
+a cube shaped <new30> cat

@@ -1,0 +1,25 @@
+a <new17> backpack in the jungle
+a <new17> backpack in the snow
+a <new17> backpack on the beach
+a <new17> backpack on a cobblestone street
+a <new17> backpack on top of pink fabric
+a <new17> backpack on top of a wooden floor
+a <new17> backpack with a city in the background
+a <new17> backpack with a mountain in the background
+a <new17> backpack with a blue house in the background
+a <new17> backpack on top of a purple rug in a forest
+a <new17> backpack with a wheat field in the background
+a <new17> backpack with a tree and autumn leaves in the background
+a <new17> backpack with the Eiffel Tower in the background
+a <new17> backpack floating on top of water
+a <new17> backpack floating in an ocean of milk
+a <new17> backpack on top of green grass with sunflowers around it
+a <new17> backpack on top of a mirror
+a <new17> backpack on top of the sidewalk in a crowded street
+a <new17> backpack on top of a dirt road
+a <new17> backpack on top of a white rug
+a red <new17> backpack
+a purple <new17> backpack
+a shiny <new17> backpack
+a wet <new17> backpack
+a cube shaped <new17> backpack

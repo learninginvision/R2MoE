@@ -1,0 +1,25 @@
+a <new2> clock in the jungle
+a <new2> clock in the snow
+a <new2> clock on the beach
+a <new2> clock on a cobblestone street
+a <new2> clock on top of pink fabric
+a <new2> clock on top of a wooden floor
+a <new2> clock with a city in the background
+a <new2> clock with a mountain in the background
+a <new2> clock with a blue house in the background
+a <new2> clock on top of a purple rug in a forest
+a <new2> clock with a wheat field in the background
+a <new2> clock with a tree and autumn leaves in the background
+a <new2> clock with the Eiffel Tower in the background
+a <new2> clock floating on top of water
+a <new2> clock floating in an ocean of milk
+a <new2> clock on top of green grass with sunflowers around it
+a <new2> clock on top of a mirror
+a <new2> clock on top of the sidewalk in a crowded street
+a <new2> clock on top of a dirt road
+a <new2> clock on top of a white rug
+a red <new2> clock
+a purple <new2> clock
+a shiny <new2> clock
+a wet <new2> clock
+a cube shaped <new2> clock

@@ -1,0 +1,5 @@
+/dataset/cat/00.jpg
+/dataset/cat/01.jpg
+/dataset/cat/02.jpg
+/dataset/cat/03.jpg
+/dataset/cat/04.jpg

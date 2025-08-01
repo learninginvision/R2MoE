@@ -1,0 +1,25 @@
+a <new12> can in the jungle
+a <new12> can in the snow
+a <new12> can on the beach
+a <new12> can on a cobblestone street
+a <new12> can on top of pink fabric
+a <new12> can on top of a wooden floor
+a <new12> can with a city in the background
+a <new12> can with a mountain in the background
+a <new12> can with a blue house in the background
+a <new12> can on top of a purple rug in a forest
+a <new12> can with a wheat field in the background
+a <new12> can with a tree and autumn leaves in the background
+a <new12> can with the Eiffel Tower in the background
+a <new12> can floating on top of water
+a <new12> can floating in an ocean of milk
+a <new12> can on top of green grass with sunflowers around it
+a <new12> can on top of a mirror
+a <new12> can on top of the sidewalk in a crowded street
+a <new12> can on top of a dirt road
+a <new12> can on top of a white rug
+a red <new12> can
+a purple <new12> can
+a shiny <new12> can
+a wet <new12> can
+a cube shaped <new12> can

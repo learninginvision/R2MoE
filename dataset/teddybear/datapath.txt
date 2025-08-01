@@ -1,0 +1,7 @@
+/dataset/teddybear/00.jpg
+/dataset/teddybear/01.jpg
+/dataset/teddybear/02.jpg
+/dataset/teddybear/03.jpg
+/dataset/teddybear/04.jpg
+/dataset/teddybear/05.jpg
+/dataset/teddybear/06.jpg

@@ -1,0 +1,6 @@
+/dataset/backpack/00.jpg
+/dataset/backpack/01.jpg
+/dataset/backpack/02.jpg
+/dataset/backpack/03.jpg
+/dataset/backpack/04.jpg
+/dataset/backpack/05.jpg

@@ -1,0 +1,25 @@
+a <new11> dog in the jungle
+a <new11> dog in the snow
+a <new11> dog on the beach
+a <new11> dog on a cobblestone street
+a <new11> dog on top of pink fabric
+a <new11> dog on top of a wooden floor
+a <new11> dog with a city in the background
+a <new11> dog with a mountain in the background
+a <new11> dog with a blue house in the background
+a <new11> dog on top of a purple rug in a forest
+a <new11> dog wearing a red hat
+a <new11> dog wearing a santa hat
+a <new11> dog wearing a rainbow scarf
+a <new11> dog wearing a black top hat and a monocle
+a <new11> dog in a chef outfit
+a <new11> dog in a firefighter outfit
+a <new11> dog in a police outfit
+a <new11> dog wearing pink glasses
+a <new11> dog wearing a yellow shirt
+a <new11> dog in a purple wizard outfit
+a red <new11> dog
+a purple <new11> dog
+a shiny <new11> dog
+a wet <new11> dog
+a cube shaped <new11> dog

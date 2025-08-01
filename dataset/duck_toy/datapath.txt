@@ -1,0 +1,4 @@
+/dataset/duck_toy/00.jpg
+/dataset/duck_toy/01.jpg
+/dataset/duck_toy/02.jpg
+/dataset/duck_toy/03.jpg

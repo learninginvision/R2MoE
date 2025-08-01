@@ -1,0 +1,25 @@
+a <new7> toy in the jungle
+a <new7> toy in the snow
+a <new7> toy on the beach
+a <new7> toy on a cobblestone street
+a <new7> toy on top of pink fabric
+a <new7> toy on top of a wooden floor
+a <new7> toy with a city in the background
+a <new7> toy with a mountain in the background
+a <new7> toy with a blue house in the background
+a <new7> toy on top of a purple rug in a forest
+a <new7> toy with a wheat field in the background
+a <new7> toy with a tree and autumn leaves in the background
+a <new7> toy with the Eiffel Tower in the background
+a <new7> toy floating on top of water
+a <new7> toy floating in an ocean of milk
+a <new7> toy on top of green grass with sunflowers around it
+a <new7> toy on top of a mirror
+a <new7> toy on top of the sidewalk in a crowded street
+a <new7> toy on top of a dirt road
+a <new7> toy on top of a white rug
+a red <new7> toy
+a purple <new7> toy
+a shiny <new7> toy
+a wet <new7> toy
+a cube shaped <new7> toy

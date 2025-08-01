@@ -1,0 +1,5 @@
+/dataset/dog/00.jpg
+/dataset/dog/01.jpg
+/dataset/dog/02.jpg
+/dataset/dog/03.jpg
+/dataset/dog/04.jpg
