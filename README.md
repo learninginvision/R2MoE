@@ -2,7 +2,7 @@
 
 This is the *Pytorch Implementation* for the paper:
 
-> **Lifelong SG2I: Continual Visual Concept Learning with Scene Graph Growing** <br><br>
+> **R$^2$MoE: Redundancy-Removal Mixture of Experts for Lifelong Concept Learning** <br><br>
 >
 
 > **Abstract**:  
