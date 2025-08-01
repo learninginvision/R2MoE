@@ -72,24 +72,18 @@ After completing training, you can generate image by using the following command
 
 Inference
 ```shell
-<<<<<<< HEAD
 bash scripts/sample_single_concept.sh
-=======
-bash sample_single_concept.sh
->>>>>>> c707ca2 (Merge remote-tracking branch 'origin/master' into master)
 ```
 The result will be saved in the folder `./logs/<your_model>/reg`.
 
 If you want to generate image with multiple concepts, you can use the following command:
 ```shell
-bash sample_single_concept.sh
+bash scripts/sample_multi_concept.sh
 ```
 
 CLIP Metric calculation
 ```shell
 bash scripts/evaluate.sh
-<<<<<<< HEAD
-=======
 ```
 ## References
 
@@ -100,7 +94,6 @@ bash scripts/evaluate.sh
   journal={arXiv preprint arXiv:2507.13107},
   year={2025}
 }
->>>>>>> c707ca2 (Merge remote-tracking branch 'origin/master' into master)
 ```
 
 
