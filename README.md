@@ -22,14 +22,14 @@ This is the *Pytorch Implementation* for the paper:
 First, you can clone this repo using the command:
 
 ```shell 
-git clone https://github.com/learninginvision/lifelong-SG2I.git
+git clone https://github.com/learninginvision/R2MoE.git
 ```
 
 Then, you can create a virtual environment using conda, as follows:
 
 ```shell
 conda env create -f environment.yaml
-conda activate sg2i
+conda activate R2MoE
 ```
 
 ## :floppy_disk: Data preparation
