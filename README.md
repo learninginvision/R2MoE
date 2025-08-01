@@ -1,9 +1,10 @@
-# :page_with_curl: R<sup>2</sup>MoE: Redundancy-Removal Mixture of Experts for Lifelong Concept Learning 
+# :page_with_curl: R<sup>2</sup>MoE: Redundancy-Removal Mixture of Experts for Lifelong Concept Learning
 ### 
 This is the *Pytorch Implementation* for the paper:
 > [**R<sup>2</sup>MoE: Redundancy-Removal Mixture of Experts for Lifelong Concept Learning** <br><br>](https://arxiv.org/html/2507.13107v1)
 >
  ## Overview
+
 ### Train Paradigm 
 <div align=center>
 <img align="middle" width="800" src="figures/overview.png">
@@ -13,22 +14,20 @@ This is the *Pytorch Implementation* for the paper:
 <div align=center>
 <img align="middle" width="800" src="figures/Inference.png">
 </div>
+
 [R<sup>2</sup>MoE](https://arxiv.org/html/2507.13107v1) enables continuous learning of new concepts (up to hundreds) on a pre-trained diffusion model without significant catastrophic forgetting. This approach also reduces the additional storage required for each new concept to 0.6MB.
-Our method also supports the compositional application of multiple concepts.
+Our method also supports the **compositional application of multiple concepts**, See [multi-concept results](#multi-concept-results) for more visual results.
 
 ## 📈 Results
 
-### Single-Concept Results
+### Single-Concept-Results
 <div align="center">
-<img align="middle" width="700" src="figures/Qualitative results.png">
+  <img align="middle" width="700" src="figures/Qualitative results.png">
 </div>
 
-### Multi-Concept Results
-
-</div>
+### Multi-Concept-Results
 <div align="center">
-<img align="middle" width="700" src="figures/Qualitative results2.png">
-
+  <img align="middle" width="700" src="figures/Qualitative results2.png">
 </div>
 
 ## 🔧 Dependencies and Installation
@@ -73,7 +72,11 @@ After completing training, you can generate image by using the following command
 
 Inference
 ```shell
+<<<<<<< HEAD
+bash scripts/sample_single_concept.sh
+=======
 bash sample_single_concept.sh
+>>>>>>> c707ca2 (Merge remote-tracking branch 'origin/master' into master)
 ```
 The result will be saved in the folder `./logs/<your_model>/reg`.
 
@@ -85,6 +88,8 @@ bash sample_single_concept.sh
 CLIP Metric calculation
 ```shell
 bash scripts/evaluate.sh
+<<<<<<< HEAD
+=======
 ```
 ## References
 
@@ -95,6 +100,7 @@ bash scripts/evaluate.sh
   journal={arXiv preprint arXiv:2507.13107},
   year={2025}
 }
+>>>>>>> c707ca2 (Merge remote-tracking branch 'origin/master' into master)
 ```
 
 
