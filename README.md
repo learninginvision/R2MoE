@@ -52,6 +52,8 @@ conda activate R2MoE
 ```
 
 ## :floppy_disk: Data preparation
+You can download the CustomConcept101 dataset from [here](https://www.cs.cmu.edu/~custom-diffusion/assets/data.zip) and Dreambooth dataset from [here](https://github.com/google/dreambooth) as training data.
+
 Get regularization data:
 ```shell
 bash sample_reg_dataset.sh
