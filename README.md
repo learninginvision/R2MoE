@@ -70,20 +70,20 @@ python diversity.py --path ./logs/<your_model>/reg
 ## 📈 Results
 
 <div align="center">
-<img align="middle" width="500" src="figures/Qualitative results.png">
+<img align="middle" width="700" src="figures/Qualitative results.png">
 
 *Results of divesity.*
 </div>
 
 <div align="center">
-<img align="middle" width="200" src="figures/Qualitative results2.png">
+<img align="middle" width="700" src="figures/Qualitative results2.png">
 
 *Results of CLIP TA, CLIP IA and forgetting.*
 </div>
 </div>
 
 <div align="center">
-<img align="middle" width="500" src="figures/forgetting_and_parameters.png">
+<img align="middle" width="700" src="figures/forgetting_and_parameters.png">
 
 *Diversity of image generation.*
 </div>
